@@ -1,4 +1,4 @@
-public class Program {
+public class Program2 {
 
     int i;
 }
